@@ -20,7 +20,4 @@ public class Inputs {
         double valor = entrada.entradaDoValor(opcaoMoeda);
         return valor;
     }
-
-	public void recebeTempe(String opcaoTempe) {
-	}
 }

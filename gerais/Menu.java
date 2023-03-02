@@ -12,8 +12,12 @@ public class Menu {
       JOptionPane.PLAIN_MESSAGE,
       null,
       new Object[] {
-        "Conversor de Moeda", "Conversor de Temperatura"
+        "Conversor de Moeda",
+        "Conversor de Temperatura",
+        "Quilometragem", 
+        "Ano Luz"
       },
+      
       "Escolha"
     ).toString();
 

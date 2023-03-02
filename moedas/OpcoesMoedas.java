@@ -20,11 +20,9 @@ public class OpcoesMoedas {
             "De Euros a Reais",
             "De Libras a Reais",
             "De Yene a Reais",
-            "De Won Coreano a Reais"
-            }, "Escolha"
-        ).toString();
+            "De Won Coreano a Reais"}, 
+            "Escolha").toString();
         
         return opcao;
-    }
-   
+    } 
 }

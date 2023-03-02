@@ -2,11 +2,15 @@ import gerais.Cancelar;
 import gerais.Continuar;
 import moedas.Inputs;
 import moedas.Moedas;
+import temperatura.Temperatura;
+import Quilometragem.Quilometros;
 
 public class Main {
     public static void main(String[] args) {
         Inputs inputs = new Inputs();
         Moedas moedas = new Moedas();
+        Temperatura temperatura = new Temperatura();
+        Quilometros quilometros = new Quilometros();
         Continuar continuar = new Continuar();
 
         try {
@@ -16,14 +20,19 @@ public class Main {
 
                 if (opcao == "Conversor de Moeda"){
                     moedas.executa();
-                } else {
-                    String opcaoTempe = inputsTempe.opcaoTempe();
-                    inputs.recebeTempe(opcaoTempe);
-                }
+                
+                } else if (opcao == "Conversor de Temperatura") {
+                    temperatura.executa();
 
+                } else if (opcao == "Quilometragem") {
+                    quilometros.executa();
+
+                } else {
+
+                }
                 continua = continuar.querContinuar();
             }
-        } catch (NullPointerException e) {
+        } catch (Exception e) {
             Cancelar cancelar = new Cancelar();
             cancelar.showCancelar();
         }
