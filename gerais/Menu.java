@@ -2,9 +2,7 @@ package gerais;
 import javax.swing.*;
 
 public class Menu {
-  // PARA PEGAR AS OPÇOES EM LISTAS... falta mostra a opção que escolheu
   public String showMenu() {  
-
     String escolha = JOptionPane.showInputDialog(
       null,
       "Tipos de conversores",
@@ -15,7 +13,6 @@ public class Menu {
         "Conversor de Moeda",
         "Conversor de Temperatura",
         "Quilometragem", 
-        "Ano Luz"
       },
       
       "Escolha"

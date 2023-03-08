@@ -20,4 +20,6 @@ public class Inputs {
         double valor = entrada.entradaDoValor(opcaoMoeda);
         return valor;
     }
+
+    
 }
