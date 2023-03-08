@@ -1,14 +1,12 @@
 <h1 align="center"> Challenge_ONE _Back_End_Conversor </h1>
 
 <p align="center">
- 
  ![desafio_ONE ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/113807573/223771366-b71ab6fc-0c7f-489f-9d1e-7643b0a8f4cb.gif)
- 
 </p>
 
 # :hammer: Funcionalidades do projeto:
 
-Nesta oportunidade foi solicitado pela a ONE a criação de um conversor de moeda utilizando a linguagem Java.
+Nesta oportunidade foi solicitado pela a ONE a criação de um conversor utilizando a linguagem Java.
 
 OBSERVAÇÃO: Lembrando que deve ser possível também converter de forma inversa.
 
@@ -39,4 +37,4 @@ Alguns exemplos:
  - Vs code
 
 # Autora:
-por <a href="(https://www.linkedin.com/in/adriellymendes-dev)">Adrielly Vitória ♡ </a>
+por <a href="https://www.linkedin.com/in/adriellymendes-dev/">Adrielly Vitória ♡ </a>
