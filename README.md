@@ -1,6 +1,6 @@
 <h1 align="center"> Challenge_ONE _Back_End_Conversor </h1>
 
-![desafio_ONE ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/113807573/223771366-b71ab6fc-0c7f-489f-9d1e-7643b0a8f4cb.gif)
+ align="center" ![desafio_ONE ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/113807573/223771366-b71ab6fc-0c7f-489f-9d1e-7643b0a8f4cb.gif)
 
 # :hammer: Funcionalidades do projeto:
 
@@ -34,5 +34,6 @@ Alguns exemplos:
  - Swing
  - Vs code
 
-# Desevovindo por | [<img src="https://www.linkedin.com/in/adriellymendes-dev/"width=115><br><sub>Adrielly Vitória</sub>]
+# Autora:
+[<img src="https://www.linkedin.com/in/adriellymendes-dev/"width=115><br><sub>Adrielly Vitória</sub>]
  
