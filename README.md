@@ -1,8 +1,8 @@
 <h1 align="center"> Challenge_ONE _Back_End_Conversor </h1>
 
-<p align="center">
+<div style="text-align:center">
  ![desafio_ONE ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/113807573/223771366-b71ab6fc-0c7f-489f-9d1e-7643b0a8f4cb.gif)
-</p>
+</div>
 
 # :hammer: Funcionalidades do projeto:
 
