@@ -1,8 +1,7 @@
 <h1 align="center"> Challenge_ONE _Back_End_Conversor </h1>
 
-<div style="text-align:center">
  ![desafio_ONE ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/113807573/223771366-b71ab6fc-0c7f-489f-9d1e-7643b0a8f4cb.gif)
-</div>
+
 
 # :hammer: Funcionalidades do projeto:
 
@@ -37,4 +36,5 @@ Alguns exemplos:
  - Vs code
 
 # Autora:
-por <a href="https://www.linkedin.com/in/adriellymendes-dev/">Adrielly Vitória ♡ </a>
+Por <a href="https://www.linkedin.com/in/adriellymendes-dev/" target="_blank" rel="noopener noreferrer">Adrielly Vitória ♡</a>
+
